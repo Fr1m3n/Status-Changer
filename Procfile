@@ -1,1 +1,1 @@
-web: python gui.py 6354496 89887525798 123rvkjlo123
+web: python gui.py 6354496 89887525798
