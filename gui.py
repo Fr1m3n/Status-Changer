@@ -2,7 +2,7 @@ import vk
 import time
 import sys
 
-session = vk.AuthSession(sys.argv[1], sys.argv[2], sys.argv[3], scope = 'status')
+session = vk.AuthSession(sys.argv[1], sys.argv[2], sys.argv[3], scope = 'status, offline')
 print(sys.argv[3])
 vk_api = vk.API(session)
 while 1 == 1:
