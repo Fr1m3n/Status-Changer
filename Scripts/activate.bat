@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=E:\VK_API\env_heroky"
+set "VIRTUAL_ENV=E:\VK_API\env_heroky_git"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
@@ -9,7 +9,7 @@ if defined _OLD_VIRTUAL_PROMPT (
     )
     set "_OLD_VIRTUAL_PROMPT=%PROMPT%"
 )
-set "PROMPT=(env_heroky) %PROMPT%"
+set "PROMPT=(env_heroky_git) %PROMPT%"
 
 REM Don't use () to avoid problems with them in %PATH%
 if defined _OLD_VIRTUAL_PYTHONHOME goto ENDIFVHOME
