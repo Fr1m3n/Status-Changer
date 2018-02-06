@@ -1,1 +1,1 @@
-web: python gui.py 6354496 89887525798
+web: python gu2i.py 6354496 89887525798
